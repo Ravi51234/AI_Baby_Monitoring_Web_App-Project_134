@@ -1,0 +1,29 @@
+    .heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    }
+    
+    #status{
+    font-size: 18px;
+    }
+    
+    body{
+    background-size:cover;
+    background-position:center;
+    }
+    
+    canvas{
+    margin-top:30px;
+    box-shadow:10px 10px 10px grey;
+    border-radius:10px;
+    }
+    
+    #status,#number_of_objects,#start_model{
+    font-size:18px;
+    }
+
+    .heading p{
+        font-size:12px;
+        color:black;
+    }
